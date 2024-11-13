@@ -1,6 +1,5 @@
-# Cluster by Group2
+# Cluster by Group2      ![group2_logo](https://github.com/user-attachments/assets/ffe70129-c9d1-426e-b6f1-2812a288035d)
 
-![Alt text](C:\Users\angel\OneDrive\Documentos\Centennial\Web Application Development\CLUSTER_GROUP2\group2_logo.png)
 
 ## Overview
 Cluster is a web application developed as part of the COMP229 – Web Application Development course. This project aims to create a functional web application with a database-backend connection and API testing. The first release includes essential elements and progression towards a fully polished site. This README will be update in every delivery.
