@@ -1,4 +1,6 @@
-# Cluster by Group2      ![group2_logo](https://github.com/user-attachments/assets/ffe70129-c9d1-426e-b6f1-2812a288035d)
+# Cluster 
+
+              ![group2_logo](https://github.com/user-attachments/assets/ffe70129-c9d1-426e-b6f1-2812a288035d)
 
 
 ## Overview
