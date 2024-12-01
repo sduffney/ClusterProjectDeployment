@@ -23,24 +23,9 @@ GameZone is a comprehensive web application developed to provide a seamless plat
 ## Installation
 To get started with GameZone, follow these steps:
 
-1. **Clone the repository**:
+### 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/GameZone.git
-
-
-Entendido, aquí tienes el contenido en un solo bloque de código Markdown:
-
-```md
-# GameZone
-
-## Getting Started
-
-Follow these steps to get the project up and running:
-
-### 1. Navigate to the project directory:
-```bash
-cd GameZone
-```
 
 ### 2. Install dependencies:
 ```bash
