@@ -71,10 +71,7 @@ const ProductDetail = () => {
         <ListItem>
           <ListItemText primary="Category" secondary={product.category} />
         </ListItem>
-      </List>
-      <IconButton component={Link} to={`/product/edit/${product._id}`} color="primary">
-        <Edit />
-      </IconButton>
+      </List>     
       <IconButton component={Link} to="/products" color="secondary">
         <ArrowBack />
       </IconButton>
