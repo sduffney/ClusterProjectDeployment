@@ -32,7 +32,7 @@ return (
  }
  />
  <Route path="/user/:userId" element={<Profile />} />
- <Route path="/product/:productId" element={<ProductDetail/>}/>
+ <Route path="/products/:productId" element={<ProductDetail/>}/>
 </Routes>
 </div>
  );
